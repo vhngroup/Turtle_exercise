@@ -14,13 +14,13 @@ Este proyecto tiene como ingrediente especial con el uso de ´´´create_subproc
 
 ### Alistamiento de entorno ###
 *   Se recomienda ejecutarlo los scripts en entorno virtual VENV
-* Ejecutar el comando: pip install -r requirements.txt para instalar las dependencias. Si el proyecto asi lo require.
+* Ejecutar el comando: ´´´pip install -r requirements.txt´´´ para instalar las dependencias. Si el proyecto asi lo require.
 ### Como correrlo ### 
 * Proyecto Arcoiris: python arcoiris_turtle.py
 * Proyecto Estrella: 
     * Ingresar via consola a la carpeta Estrella
-    * Ejecutar el comando: pip install -r requirements.txt
-    * Ejecutar el comando: python main.py
+    * Ejecutar el comando: ´´´pip install -r requirements.txt´´´
+    * Ejecutar el comando: ´´´python main.py´´´
 ###
 [Video demo:](https://x.com/Victor__Noguera/status/1828447565471273461)
 
