@@ -8,7 +8,7 @@ Turtle es una libreria que nos permite desplegar una interfas grafica rapida y d
 * ## Estrellas 2D y 3D ##
 Este proyecto tiene como ingrediente especial con el uso de ´´´create_subprocess_exec´´´ ´para la ejecución via consola del script y la libreria ´´´asyncio´´´ para la ejecución asinccona de cada script "Se ejecutan los dos al mismo tiempo y el uno no afecta al otro".
 
-| Estrella 2D         | Estrella 3D       |
+| Estrella 2D         | Estrella 3D         |
 | :------------------------:|:------------------------:|
 | ![2D](https://github.com/vhngroup/Turtle_exercise/blob/main/static/Estrella2D.png)|![3D](https://github.com/vhngroup/Turtle_exercise/blob/main/static/Estrella3D.png)|
 
