@@ -22,5 +22,5 @@ Este proyecto tiene como ingrediente especial con el uso de ´´´ create_subpro
     * Ejecutar el comando: ´´´ pip install -r requirements.txt ´´´
     * Ejecutar el comando: ´´´ python main.py ´´´
 ###
-[Video demo:](https://x.com/Victor__Noguera/status/1828447565471273461)
+[Video demo: https://x.com/Victor__Noguera/status/1834104603274510492 ](https://x.com/Victor__Noguera/status/1834104603274510492)
 
